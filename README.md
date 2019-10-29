@@ -1,0 +1,2 @@
+# Shinsky
+Software Developer
